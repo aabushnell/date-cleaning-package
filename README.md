@@ -105,6 +105,3 @@ The DateCleaning package may output wrong dates (the flag FF is a strong indicat
 
 ## 5. Periodo dataset
 We also uploaded the periodo dataset to postgres. We use that table in the dateapp and in case we have a response from chronontology that has a perfect score match. For "middle kingdom", for example, we have several results for "middle kingdom egypt", so we decided to get the greatest possible interval between the perfect matches. For "middle kingdom" we have the following possibilities (-2039,-1639), (-1800,-1639), (-2000,-1600). We decided to use: (-2039, -1600) 
-
-## 5. TODO
-Update the read.me file
