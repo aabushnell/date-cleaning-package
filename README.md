@@ -11,7 +11,7 @@ Datecleaning parses date strings with various formats and outputs a clean python
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install DateCleaning.
 
 ```bash
-pip3 install git+https://github.com/aabushnell/date-cleaning-package.git#egg=date-cleaning-package
+pip3 install git+https://github.com/aabushnell/date-cleaning-package.git
 ```
 
 If your system fails to install python-Levenshtein the first time, download the .whl file from https://www.lfd.uci.edu/~gohlke/pythonlibs/#python-levenshtein that matches your operating
